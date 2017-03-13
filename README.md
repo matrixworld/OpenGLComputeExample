@@ -1,0 +1,2 @@
+# OpenGLComputeExample
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd15af911ddf4123b09040910b674e43)](https://www.codacy.com/app/petoknm/OpenGLComputeExample?utm_source=github.com&utm_medium=referral&utm_content=petoknm/OpenGLComputeExample&utm_campaign=badger)
