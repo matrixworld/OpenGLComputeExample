@@ -3,6 +3,10 @@
 MyGLWidget::MyGLWidget(QWidget *parent) : QOpenGLWidget(parent)
 {
     roll=0.0;
+    QSurfaceFormat format;
+    format.setVersion(4, 3);
+    format.setProfile(QSurfaceFormat::CoreProfile);
+    setFormat(format);
 }
 
 MyGLWidget::~MyGLWidget()
